@@ -1,0 +1,24 @@
+# Fichiers générés automatiquement
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dossiers générés automatiquement
+venv/
+env/
+dist/
+build/
+*.egg-info/
+.idea/
+
+# Fichiers de configuration locaux
+*.sqlite
+*.sqlite3
+*.pyc
+*.pyo
+*.db
+
+# Dossiers spécifiques à l'environnement de développement
+.vscode/
+.idea/
